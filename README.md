@@ -13,3 +13,4 @@ Non-graphical esolangs I love:
 Graphical esolangs I should really implement:
  * [Line](https://esolangs.org/wiki/Line)
  * [Circles](https://esolangs.org/wiki/Circles)
+ * [Efghij](https://esolangs.org/wiki/Efghij)
