@@ -15,4 +15,4 @@ Graphical esolangs I should really implement:
  * [Circles](https://esolangs.org/wiki/Circles)
  * [Efghij](https://esolangs.org/wiki/Efghij)
 
-[![everyone has these in their bios](https://github-readme-stats.vercel.app/api?username=photon-niko)](https://github.com/anuraghazra/github-readme-stats)
+[![everyone has these in their bios](https://github-readme-stats.vercel.app/api?username=photon-niko&show_icons=true&hide_border=true&title_color=ffffff&bg_color=10,ff00ff,00ffff&text_color=ffffff&icon_color=ffffff&border_radius=32)](https://github.com/anuraghazra/github-readme-stats)
