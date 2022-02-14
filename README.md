@@ -20,6 +20,7 @@ Graphical esolangs I should really implement:
  * [Line](https://esolangs.org/wiki/Line)
  * [Circles](https://esolangs.org/wiki/Circles)
  * [Efghij](https://esolangs.org/wiki/Efghij)
+ * [Totally Absurd Graphical esolang](https://github.com/tag-lang/tag)
 
 [Graphical esolang I made that I am really proud of](https://github.com/photon-niko/shapes)
 
