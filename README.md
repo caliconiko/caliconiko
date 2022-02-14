@@ -8,6 +8,8 @@ I am on discord: Photon_Niko#0049
 
 I somehow have more github followers than twitter followers
 
+I am a bad gamedev. Even worse musician.
+
 # Esolangery
 
 I love esolangs, especially the graphical ones.
