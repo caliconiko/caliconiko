@@ -4,6 +4,10 @@ Hi, I am Calico Niko.
 
 My pronouns match the following regex: /the(y|m|ir)/
 
+I am on discord: Photon_Niko#0049
+
+I somehow have more github followers than twitter followers
+
 # Esolangery
 
 I love esolangs, especially the graphical ones.
