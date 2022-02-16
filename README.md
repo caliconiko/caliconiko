@@ -4,7 +4,7 @@ Hi, I am Calico Niko.
 
 My pronouns match the following regex: /the(y|m|ir)/
 
-I am on discord: Photon_Niko#0049
+I am on discord: @Photon_Niko#3376
 
 I somehow have more github followers than twitter followers
 
