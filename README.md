@@ -31,3 +31,8 @@ Currently working on implementing Circles
 # Everyone has these in their bios
 
 [![everyone has these in their bios](https://github-readme-stats.vercel.app/api?username=photon-niko&show_icons=true&hide_border=true&title_color=ffffff&bg_color=10,ff00ff,00ffff&text_color=ffffff&icon_color=ffffff&border_radius=32)](https://github.com/anuraghazra/github-readme-stats)
+
+## Platypus
+
+<img src="https://raw.githubusercontent.com/photon-niko/photon-niko/main/rvhd96oixct51.gif" width=100% height=100%>
+
