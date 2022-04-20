@@ -1,6 +1,6 @@
 # Hi
 
-Hi, I am Calico Niko.
+Hello, I'm Calico Niko.
 
 My pronouns match the following regex: /the(y|m|ir)/
 
