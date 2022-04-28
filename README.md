@@ -26,7 +26,7 @@ Graphical esolangs I should really implement:
 
 [Graphical esolang I made that I am really proud of](https://github.com/photon-niko/shapes)
 
-Currently working on implementing Circles
+~~Currently working on implementing Circles~~ Nope! Currently working on infinitely many other side projects. Send help.
 
 # Everyone has these in their bios
 
