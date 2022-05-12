@@ -36,6 +36,3 @@ Graphical esolangs I should really implement:
 
 <img src="https://raw.githubusercontent.com/photon-niko/photon-niko/main/rvhd96oixct51.gif" width=100% height=100%>
 
-# Help pls
-
-How do you put thing on pypi aaaa
