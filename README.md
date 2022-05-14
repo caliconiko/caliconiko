@@ -8,7 +8,7 @@ I am on discord: @Photon_Niko#3376
 
 I somehow have more github followers than twitter followers
 
-I am a bad gamedev. Even worse musician.
+am linguistics enthusiast, esolang lover, indie-game appreciator, and amateur thing devellopper
 
 # Esolangery
 
