@@ -6,7 +6,7 @@ My pronouns match the following regex: /the(y|m|ir)/
 
 I am on discord: @Photon_Niko#3376
 
-I somehow have more github followers than twitter followers
+I somehow have more twitter followers than github followers
 
 am linguistics enthusiast, esolang lover, indie-game appreciator, and amateur thing devellopper
 
