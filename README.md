@@ -21,12 +21,12 @@ Non-graphical esolangs I love:
 Graphical esolangs I should really implement:
  * [Totally Absurd Graphical esolang](https://github.com/tag-lang/tag)
  * [Line](https://esolangs.org/wiki/Line)
- * [Circles](https://esolangs.org/wiki/Circles)
+ * [Circles](https://esolangs.org/wiki/Circles) 
  * [Efghij](https://esolangs.org/wiki/Efghij)
 
 [Graphical esolang I made that I am really proud of](https://github.com/photon-niko/shapes)
 
-~~Currently working on implementing Circles~~ Nope! Currently working on infinitely many other side projects. Send help.
+~~Currently working on making an AsciiDots IDE~~ Nope! Currently crocheting. It's really fun! You should try it!
 
 # Everyone has these in their bios
 
