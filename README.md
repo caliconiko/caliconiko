@@ -26,7 +26,7 @@ Graphical esolangs I should really implement:
 
 [Graphical esolang I made that I am really proud of](https://github.com/photon-niko/shapes)
 
-~~Currently working on making an AsciiDots IDE~~ Nope! Currently crocheting. It's really fun! You should try it!
+~~Currently working on making an AsciiDots IDE~~ Nope! Currently playing with Astroneer trains. It's really fun! You should try it!
 
 # Everyone has these in their bios
 
