@@ -32,6 +32,7 @@ Graphical esolangs I should really implement:
 
 [![everyone has these in their bios](https://github-readme-stats.vercel.app/api?username=caliconiko&show_icons=true&hide_border=true&title_color=ffffff&bg_color=10,ff00ff,00ffff&text_color=ffffff&icon_color=ffffff&border_radius=32)](https://github.com/anuraghazra/github-readme-stats)
 
+this used to be **A** i swear to bingle. i've just been doing other things okay
 ## Platypus
 
 <img src="https://raw.githubusercontent.com/caliconiko/caliconiko/main/rvhd96oixct51.gif" width=100% height=100%>
