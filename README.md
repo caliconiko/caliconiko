@@ -4,7 +4,7 @@ Hello, I'm Calico Niko. You can call me Cally
 
 My pronouns match the following regex: /the(y|m|ir)/
 
-I am on discord: @caliconiko#1024
+I am on discord: @caliconiko
 
 I somehow have more twitter followers than github followers
 
@@ -26,7 +26,7 @@ Graphical esolangs I should really implement:
 
 [Graphical esolang I made that I am really proud of](https://github.com/caliconiko/shapes)
 
-~~Currently working on making an AsciiDots IDE~~ Nope! Currently playing with Astroneer trains. It's really fun! You should try it!
+~~Currently working on making an Shapes 1.0~~ Nope! Currently umm idek anymore actually
 
 # Everyone has these in their bios
 
@@ -36,3 +36,4 @@ Graphical esolangs I should really implement:
 
 <img src="https://raw.githubusercontent.com/caliconiko/caliconiko/main/rvhd96oixct51.gif" width=100% height=100%>
 
+[this gif is derived from a gif originally by the great low poly wizard, megaceros](https://www.tumblr.com/caliconiko/710460683329863680/megaceros-me-after-christmas-oh-my-gosh-okay)
